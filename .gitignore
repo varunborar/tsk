@@ -1,0 +1,7 @@
+venv/
+
+# Python Related Stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
